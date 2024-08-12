@@ -2,11 +2,13 @@
 
 ## Vulnerability Overview
 
+- BUG_Author: YiQi Zeng
 - Vulnerability Name: 2345-Input-method-Software_Insecure-configuration-RCE
 - Vulnerability Type: Insecure-configuration-RCE,**Can use `NT AUTHORITY\SYSTEM` to execute the malicious command**
 - Vulnerability Level: High risk
 - Vulnerability Affecting product: 2345-Input-method-Software([2345王牌输入法](https://pinyin.2345.cc/))
-- Vulnerability Affected Version: V7.9
+- Software: [https://dl.2345.cc/pinyin/2345pinyin_v7.9.1.8332.exe](https://dl.2345.cc/pinyin/2345pinyin_v7.9.1.8332.exe)
+- Vulnerability Affected Version: Version <= V7.9
 
 ![RCE.png](./Images/RCE.png)
 
