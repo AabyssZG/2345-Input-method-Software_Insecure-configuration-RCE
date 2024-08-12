@@ -2,7 +2,7 @@
 
 ## Vulnerability Overview
 
-- BUG_Author: YiQi Zeng
+- BUG_Author: AabyssZG
 - Vulnerability Name: 2345-Input-method-Software_Insecure-configuration-RCE
 - Vulnerability Type: Insecure-configuration-RCE,**Can use `NT AUTHORITY\SYSTEM` to execute the malicious command**
 - Vulnerability Level: High risk
